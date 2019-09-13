@@ -1,0 +1,14 @@
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\bin\Debug\netcoreapp2.2\WebApiCoreCustomerProj.deps.json
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\bin\Debug\netcoreapp2.2\WebApiCoreCustomerProj.runtimeconfig.json
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\bin\Debug\netcoreapp2.2\WebApiCoreCustomerProj.runtimeconfig.dev.json
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\bin\Debug\netcoreapp2.2\WebApiCoreCustomerProj.dll
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.csproj.CoreCompileInputs.cache
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.RazorAssemblyInfo.cache
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.RazorAssemblyInfo.cs
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.AssemblyInfoInputs.cache
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.AssemblyInfo.cs
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.RazorTargetAssemblyInfo.cache
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\bin\Debug\netcoreapp2.2\WebApiCoreCustomerProj.pdb
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.dll
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.pdb
+C:\repos\C#\WebApiCoreCustomerProj\WebApiCoreCustomerProj\obj\Debug\netcoreapp2.2\WebApiCoreCustomerProj.csprojAssemblyReference.cache
